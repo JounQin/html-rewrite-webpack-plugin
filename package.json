@@ -1,0 +1,22 @@
+{
+  "name": "html-rewrite-webpack-plugin",
+  "version": "0.0.1",
+  "description": "A plugin to rewrite generated html of html-webpack-plugin",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JounQin/html-rewrite-webpack-plugin.git"
+  },
+  "keywords": [
+    "html",
+    "rewrite",
+    "webpack",
+    "plugin"
+  ],
+  "author": "JounQin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JounQin/html-rewrite-webpack-plugin/issues"
+  },
+  "homepage": "https://github.com/JounQin/html-rewrite-webpack-plugin#readme"
+}
